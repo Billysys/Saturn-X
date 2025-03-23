@@ -98,19 +98,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>R5InbuKbJK7m8Ax1INwrIqvO0kazjGJsvLoLiKdkGWU=</dsig:DigestValue>
+        <dsig:DigestValue>Dgb206AXZEFuZFGA1DwGF6xngkElt3Zu/sh6ySV7wew=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SaturnApi.dll" size="5120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SaturnApi.dll" size="6144">
       <assemblyIdentity name="SaturnApi" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>53euGR8VjofA56A4fCBtcUDqymZUcMttoWbsu9OpWS8=</dsig:DigestValue>
+        <dsig:DigestValue>9+3KgSSlNre2ZK0rp5TYsaxqh1afQuZBQOf+8+jB7Tk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
