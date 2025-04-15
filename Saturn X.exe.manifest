@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>iOlOX7uyzmAyRCDYGfuGfKxxrRQVWBcYthYagUiCGgw=</dsig:DigestValue>
+        <dsig:DigestValue>SjWLtm/nmnttn/oPE1pnLf660NbQYnJfmP8+qlntV70=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -110,7 +110,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9+3KgSSlNre2ZK0rp5TYsaxqh1afQuZBQOf+8+jB7Tk=</dsig:DigestValue>
+        <dsig:DigestValue>CPJzn7u3JElJzEVmrWbEd5dsn5u1eTgt1DeiX7PX8pM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -135,13 +135,13 @@
       <dsig:DigestValue>TKWfVnHs+34Afm92xkuGsNae5PWsajgC2WXC/0ZQNQs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Saturn X.exe.config" size="413">
+  <file name="Saturn X.exe.config" size="408">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>XkaxcC6QcAiS2uNfyxM5JPmD+2mi9pZz7mLzXjDmRl0=</dsig:DigestValue>
+      <dsig:DigestValue>iNJWcrx4H3l1Ez72RSmsfO8GikZIycI9EaswEFTCDIM=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
